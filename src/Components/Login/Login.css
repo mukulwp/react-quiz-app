@@ -1,0 +1,10 @@
+.login-password{
+  position: relative;
+}
+.login-p-show-hide{
+  position: absolute;
+  right: 5rem;
+  top: 36%;
+  transform: translateY(-50%);
+  cursor: pointer;
+}

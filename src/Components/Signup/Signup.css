@@ -1,0 +1,20 @@
+.signup {
+  height: 500px;
+}
+.password{
+  position: relative;
+}
+.p-show-hide{
+  position: absolute;
+  right: 5rem;
+  top: 45%;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+.cp-show-hide{
+  position: absolute;
+  right: 5rem;
+  top: 45%;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
